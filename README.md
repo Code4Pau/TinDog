@@ -1,2 +1,1 @@
-# TinDog
-A website for a fake application -  TInDog
+TinDog Starting Files
